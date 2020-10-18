@@ -1,24 +1,26 @@
 {
-  "name": "mongoose_skeleton",
+  "name": "homework-17",
   "version": "1.0.0",
-  "description": "",
+  "description": "Workout-Tracker",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeders/seed.js"
+    "seed": "cd seeders && node seeds.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarrodfinn/Homework-17.git"
+  },
+  "author": "Jarrod Finn",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.3",
-    "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
+  "bugs": {
+    "url": "https://github.com/jarrodfinn/Homework-17/issues"
   },
-  "devDependencies": {
-    "eslint": "^7.11.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.1"
+  "homepage": "https://github.com/jarrodfinn/Homework-17#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.6",
+    "morgan": "^1.10.0"
   }
 }
