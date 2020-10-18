@@ -1,26 +1,63 @@
-# Workout Tracker
 
-## User Story
 
-- As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+![Git](background.PNG)  
+# Exercise Tracker
 
-## Getting Started
+![Badge1](https://img.shields.io/badge/License-MIT-Blue)
 
-The application is deployed on Heroku. 
-https://jpf-workout-tracker.herokuapp.com/
 
-## Business Context
+## Description 
+The purpose of the project is to create an exercise tracker, so users can track their fitness goals and see it represented graphically. 
 
-A consumer will reach their fitness goals quicker when they track their workout progress.
+## Project Demonstration
+![Git](readmevideo.gif)  
 
-## Functionality
 
-When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
+## Table of contents
 
-The user should be able to:
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [Repository Link](#repository)
 
-- Add exercises to a previous workout plan.
 
-- Add new exercises to a new workout plan.
 
-- View multiple the combined weight of multiple exercises on the `stats` page.
+## Installation
+
+        Open up heroku link here > 
+
+## Usage
+
+        Select the type of workout and fill out the details, then hit add exercise and wait for it to be added to the database. Click in the top left to go to the stats page. 
+
+## License
+MIT 
+
+
+2020 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contributing
+
+kj-labs
+
+## Tests
+
+undefined
+
+## Questions
+
+- If you have any questions, please contact me on Github.
+- undefined
+- [KJ-Labs](https://github.com/KJ-Labs)
+
+## Repository
+
+- [Project Repo](https://github.com/KJ-Labs/Exercise_Tracker)
+
+## Screenshots
+![Git](screenshot.PNG)  
+
+
