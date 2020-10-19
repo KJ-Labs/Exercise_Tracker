@@ -27,11 +27,11 @@ The purpose of the project is to create an exercise tracker, so users can track 
 
 ## Installation
 
-        Open up heroku link here > 
+        Open up heroku link here >https://github.com/KJ-Labs/Exercise_Tracker 
 
 ## Usage
 
-        Select the type of workout and fill out the details, then hit add exercise and wait for it to be added to the database. Click in the top left to go to the stats page. 
+        Select the type of workout and fill out the details, then hit add exercise and wait for it to be added to the database witha success message that pops in from the top right, then hit complete. Click in the top left to go to the stats page. 
 
 ## License
 MIT 
@@ -43,9 +43,7 @@ MIT
 
 kj-labs
 
-## Tests
 
-undefined
 
 ## Questions
 
