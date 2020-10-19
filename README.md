@@ -48,7 +48,6 @@ kj-labs
 ## Questions
 
 - If you have any questions, please contact me on Github.
-- undefined
 - [KJ-Labs](https://github.com/KJ-Labs)
 
 ## Repository
