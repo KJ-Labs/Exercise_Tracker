@@ -27,7 +27,7 @@ The purpose of the project is to create an exercise tracker, so users can track 
 
 ## Installation
 
-        Open up heroku link here >https://github.com/KJ-Labs/Exercise_Tracker 
+        Open up heroku link here >https://exercisetracker12.herokuapp.com/?id=5f8cf48d792f580017aef9e9
 
 ## Usage
 
